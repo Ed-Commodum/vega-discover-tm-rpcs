@@ -1,6 +1,6 @@
 const EventEmitter = require('node:events');
 
-const initialIps = [ "165.232.126.207", "167.71.44.7", "164.92.138.136", "185.246.86.71" ];
+const initialIps = [ "165.232.126.207", "167.71.44.7", "164.92.138.136", "185.246.86.71", "134.122.64.6", "39.59.237.19" ];
 const inProgress = [];
 const successful = []
 const failed = [];
