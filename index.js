@@ -14,7 +14,7 @@ checker.numSuccesses = 0;
 const main = () => {
 
     const intervalId = setInterval(() => {
-        console.log("Checking peer ips...")
+        console.log("Awaiting responses...")
     }, 3000);
 
     checker.on('newIp', checkIp);
