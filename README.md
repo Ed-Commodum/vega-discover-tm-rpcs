@@ -8,4 +8,7 @@ If you would like to discover RPCs on other networks, simple replace the ips in 
 
 [Install nodejs](https://nodejs.org/en/download/package-manager)
 
-`node index.js`
+```
+git pull https://github.com/Ed-Commodum/vega-discover-tm-rpcs.git
+node index.js
+```
